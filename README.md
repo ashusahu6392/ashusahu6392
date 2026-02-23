@@ -1,40 +1,42 @@
-<h1 align="center">ASHU SAHU</h1>
+<h1 align="center">Ashu Sahu</h1>
 <h3 align="center">Full Stack Developer | Spring Boot • Java • JavaScript</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Spring+Boot+Developer;Backend+Focused+Full+Stack+Engineer;DSA+Enthusiast;Open+to+Full+Stack+Opportunities" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m a final-year B.Tech CSE student (2022–2026) passionate about building scalable full-stack applications.  
-I enjoy designing clean backend architectures with Spring Boot and building responsive frontends using JavaScript.
+Final-year **B.Tech CSE (2022–2026)** student passionate about building scalable backend systems and production-ready full-stack applications.
 
-I focus on writing maintainable code, understanding system design fundamentals, and continuously improving problem-solving skills.
+- 🔹 Backend-focused Full Stack Developer  
+- 🔹 Strong in Java, Spring Boot & REST APIs  
+- 🔹 Practicing Data Structures & Algorithms daily  
+- 🔹 Currently seeking Full Stack / Backend Developer roles  
 
-Currently seeking a **Full Stack Developer** opportunity where I can contribute to real-world products and grow with a strong engineering team.
+I focus on writing clean, maintainable code and understanding real-world system design principles.
 
 ---
 
-### 🚀 Technical Skills
+## 🚀 Technical Skills
 
-#### 🧠 Backend
+### 🧠 Backend
+- Java  
 - Spring Boot  
-- Core Java  
 - REST API Development  
 - Hibernate / JPA  
 
-#### 🎨 Frontend
+### 🎨 Frontend
 - JavaScript  
 - HTML5  
 - CSS3  
 
-#### 🗄️ Database
+### 🗄 Database
 - MySQL  
 
-#### 🛠 Tools
+### 🛠 Tools
 - Git & GitHub  
 - Postman  
 - IntelliJ IDEA  
@@ -42,27 +44,35 @@ Currently seeking a **Full Stack Developer** opportunity where I can contribute 
 
 ---
 
-### 📊 Competitive Programming
+## 📊 Competitive Programming
 
-- LeetCode Rank: **Top 400,000 globally**
-- Consistently practicing DSA and improving problem-solving ability
+- 🏆 LeetCode Rank: **Top 400,000 globally**
+- 💻 290+ Problems Solved  
+- 📈 Consistently improving DSA & problem-solving skills  
 
-<p align="left">
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/ashusahu6392?ext=contest&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/ashusahu6392" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashusahu6392&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashusahu6392&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 - Building production-ready full-stack applications  
 - Strengthening backend architecture knowledge  
@@ -71,9 +81,9 @@ Currently seeking a **Full Stack Developer** opportunity where I can contribute 
 
 ---
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/ashusahu6392">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -81,10 +91,14 @@ Currently seeking a **Full Stack Developer** opportunity where I can contribute 
 <a href="https://leetcode.com/u/ashusahu6392/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
+<a href="https://auth.geeksforgeeks.org/user/ashusahu6392">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Clean code. Scalable systems. Continuous growth.”</i>
+  <i>Clean Code • Scalable Systems • Continuous Growth</i>
 </p>
