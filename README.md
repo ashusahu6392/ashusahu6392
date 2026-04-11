@@ -1,54 +1,33 @@
-<h1 align="center">Ashu Sahu</h1>
-<h3 align="center">Full Stack Developer | Spring Boot • Java • JavaScript</h3>
+<h1 align="center">Hi 👋, I'm Ashu Sahu</h1>
+<h3 align="center">🚀 Full Stack Developer | Spring Boot • Java • JavaScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Spring+Boot+Developer;Backend+Focused+Full+Stack+Engineer;DSA+Enthusiast;Open+to+Full+Stack+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;Backend+Focused+Full+Stack+Engineer;DSA+Enthusiast;Open+to+Opportunities" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Final-year **B.Tech CSE (2022–2026)** student passionate about building scalable backend systems and production-ready full-stack applications.
+🎓 Final-year **B.Tech CSE (2022–2026)** student
+💡 Passionate about building **scalable backend systems & real-world applications**
 
-- 🔹 Backend-focused Full Stack Developer  
-- 🔹 Strong in Java, Spring Boot & REST APIs  
-- 🔹 Practicing Data Structures & Algorithms daily  
-- 🔹 Currently seeking Full Stack / Backend Developer roles  
-
-I focus on writing clean, maintainable code and understanding real-world system design principles.
-
----
-
-## 🚀 Technical Skills
-
-### 🧠 Backend
-- Java  
-- Spring Boot  
-- REST API Development  
-- Hibernate / JPA  
-
-### 🎨 Frontend
-- JavaScript  
-- HTML5  
-- CSS3  
-
-### 🗄 Database
-- MySQL  
-
-### 🛠 Tools
-- Git & GitHub  
-- Postman  
-- IntelliJ IDEA  
-- VS Code  
+* 🔹 Backend-focused Full Stack Developer
+* 🔹 Strong in Java, Spring Boot & REST APIs
+* 🔹 Solved 290+ DSA problems
+* 🔹 Actively looking for **Full Stack / Backend roles**
 
 ---
 
-## 📊 Competitive Programming
+## 🛠 Tech Stack
 
-- 🏆 LeetCode Rank: **Top 400,000 globally**
-- 💻 290+ Problems Solved  
-- 📈 Consistently improving DSA & problem-solving skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,github,postman,vscode,idea" />
+</p>
+
+---
+
+## 📊 Coding Profiles
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ashusahu6392?ext=contest&theme=dark" />
@@ -72,18 +51,29 @@ I focus on writing clean, maintainable code and understanding real-world system 
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashusahu6392/ashusahu6392/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashusahu6392/ashusahu6392/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ashusahu6392/ashusahu6392/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 🎯 Current Focus
 
-- Building production-ready full-stack applications  
-- Strengthening backend architecture knowledge  
-- Improving DSA & system design fundamentals  
-- Contributing to open-source projects  
+* 🚀 Building production-ready full-stack apps
+* 🧠 Improving system design & backend architecture
+* 📈 Practicing DSA daily
+* 🌍 Exploring open-source contributions
 
 ---
 
 ## 📬 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/ashusahu6392">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -95,10 +85,11 @@ I focus on writing clean, maintainable code and understanding real-world system 
 <a href="https://auth.geeksforgeeks.org/user/ashusahu6392">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <i>Clean Code • Scalable Systems • Continuous Growth</i>
+  <i>⚡ Clean Code • Scalable Systems • Continuous Growth ⚡</i>
 </p>
