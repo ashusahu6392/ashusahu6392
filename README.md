@@ -51,7 +51,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashusahu6392/ashusahu6392/output/github-snake-dark.svg" />
