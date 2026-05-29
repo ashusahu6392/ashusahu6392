@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashu Sahu</h1>
-<h3 align="center">🚀 Full Stack Developer | Spring Boot • Java • JavaScript</h3>
+<h3 align="center">🚀 Backend-Focused Full Stack Developer | Java • Spring Boot • FastAPI • React</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;Backend+Focused+Full+Stack+Engineer;DSA+Enthusiast;Open+to+Opportunities" />
@@ -14,7 +14,8 @@
 
 * 🔹 Backend-focused Full Stack Developer
 * 🔹 Strong in Java, Spring Boot & REST APIs
-* 🔹 Solved 290+ DSA problems
+* 🔹 Experienced with FastAPI, React & modern web application development
+* 🔹 Solved 500+ DSA problems
 * 🔹 Actively looking for **Full Stack / Backend roles**
 
 ---
@@ -22,7 +23,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,github,postman,vscode,idea" />
+   <img src="https://skillicons.dev/icons?i=java,spring,fastapi,react,js,html,css,mysql,git,github,postman,vscode,idea" />
 </p>
 
 ---
@@ -65,6 +66,7 @@
 
 * 🚀 Building production-ready full-stack apps
 * 🧠 Improving system design & backend architecture
+* ⚛️ Learning modern web technologies with React, FastAPI & cloud tools
 * 📈 Practicing DSA daily
 * 🌍 Exploring open-source contributions
 
